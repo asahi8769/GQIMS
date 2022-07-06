@@ -137,3 +137,6 @@ package/
 main.exe
 templates/backup/
 templates.zip
+tasks/inspection_standard/export/
+tasks/missing_pi/data/
+tasks/ppr_claim_matching/
